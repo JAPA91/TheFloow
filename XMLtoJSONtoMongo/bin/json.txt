@@ -1,0 +1,204 @@
+{"feed": {"doc": [
+    {
+        "abstract": "}}",
+        "links": {"sublink": [
+            {
+                "anchor": "Offices",
+                "link": "https://en.wikipedia.org/wiki/Kateera_%26_Kagumire_(Uganda)#Offices",
+                "linktype": "nav"
+            },
+            {
+                "anchor": "History",
+                "link": "https://en.wikipedia.org/wiki/Kateera_%26_Kagumire_(Uganda)#History",
+                "linktype": "nav"
+            },
+            {
+                "anchor": "Membership",
+                "link": "https://en.wikipedia.org/wiki/Kateera_%26_Kagumire_(Uganda)#Membership",
+                "linktype": "nav"
+            },
+            {
+                "anchor": "Notable cases",
+                "link": "https://en.wikipedia.org/wiki/Kateera_%26_Kagumire_(Uganda)#Notable_cases",
+                "linktype": "nav"
+            },
+            {
+                "anchor": "Practice areas",
+                "link": "https://en.wikipedia.org/wiki/Kateera_%26_Kagumire_(Uganda)#Practice_areas",
+                "linktype": "nav"
+            },
+            {
+                "anchor": "Awards & rankings",
+                "link": "https://en.wikipedia.org/wiki/Kateera_%26_Kagumire_(Uganda)#Awards_&_rankings",
+                "linktype": "nav"
+            },
+            {
+                "anchor": "See also",
+                "link": "https://en.wikipedia.org/wiki/Kateera_%26_Kagumire_(Uganda)#See_also",
+                "linktype": "nav"
+            },
+            {
+                "anchor": "References",
+                "link": "https://en.wikipedia.org/wiki/Kateera_%26_Kagumire_(Uganda)#References",
+                "linktype": "nav"
+            },
+            {
+                "anchor": "External links",
+                "link": "https://en.wikipedia.org/wiki/Kateera_%26_Kagumire_(Uganda)#External_links",
+                "linktype": "nav"
+            }
+        ]},
+        "title": "Wikipedia: Kateera & Kagumire (Uganda)",
+        "url": "https://en.wikipedia.org/wiki/Kateera_%26_Kagumire_(Uganda)"
+    },
+    {
+        "abstract": "| locmapin = North Carolina#USA",
+        "links": {"sublink": {
+            "anchor": "References",
+            "link": "https://en.wikipedia.org/wiki/Longwood_(Milton,_North_Carolina)#References",
+            "linktype": "nav"
+        }},
+        "title": "Wikipedia: Longwood (Milton, North Carolina)",
+        "url": "https://en.wikipedia.org/wiki/Longwood_(Milton,_North_Carolina)"
+    },
+    {
+        "abstract": "Squadron Leader Nicola Elizabeth Smith is a retired British Royal Air Force officer. She was the first female military helicopter pilot in the United Kingdom and in 2002 she became the first female to command a flying squadron.",
+        "links": {"sublink": [
+            {
+                "anchor": "See also",
+                "link": "https://en.wikipedia.org/wiki/Nicky_Smith_(RAF_officer)#See_also",
+                "linktype": "nav"
+            },
+            {
+                "anchor": "Footnotes",
+                "link": "https://en.wikipedia.org/wiki/Nicky_Smith_(RAF_officer)#Footnotes",
+                "linktype": "nav"
+            }
+        ]},
+        "title": "Wikipedia: Nicky Smith (RAF officer)",
+        "url": "https://en.wikipedia.org/wiki/Nicky_Smith_(RAF_officer)"
+    },
+    {
+        "abstract": "Michael Wadding  is an Irish hurling referee from Waterford.",
+        "links": {"sublink": [
+            {
+                "anchor": "References",
+                "link": "https://en.wikipedia.org/wiki/Michael_Wadding_(referee)#References",
+                "linktype": "nav"
+            },
+            {
+                "anchor": "External links",
+                "link": "https://en.wikipedia.org/wiki/Michael_Wadding_(referee)#External_links",
+                "linktype": "nav"
+            }
+        ]},
+        "title": "Wikipedia: Michael Wadding (referee)",
+        "url": "https://en.wikipedia.org/wiki/Michael_Wadding_(referee)"
+    },
+    {
+        "abstract": "}}",
+        "links": {"sublink": [
+            {
+                "anchor": "Life",
+                "link": "https://en.wikipedia.org/wiki/Martin_Helmchen#Life",
+                "linktype": "nav"
+            },
+            {
+                "anchor": "Selected discography",
+                "link": "https://en.wikipedia.org/wiki/Martin_Helmchen#Selected_discography",
+                "linktype": "nav"
+            },
+            {
+                "anchor": "References",
+                "link": "https://en.wikipedia.org/wiki/Martin_Helmchen#References",
+                "linktype": "nav"
+            },
+            {
+                "anchor": "External links",
+                "link": "https://en.wikipedia.org/wiki/Martin_Helmchen#External_links",
+                "linktype": "nav"
+            }
+        ]},
+        "title": "Wikipedia: Martin Helmchen",
+        "url": "https://en.wikipedia.org/wiki/Martin_Helmchen"
+    },
+    {
+        "abstract": "Jason Holt may refer to:",
+        "links": {"sublink": [
+            {
+                "anchor": "All article disambiguation pages",
+                "link": "https://en.wikipedia.org/wiki/Category:All_article_disambiguation_pages",
+                "linktype": "nav"
+            },
+            {
+                "anchor": "All disambiguation pages",
+                "link": "https://en.wikipedia.org/wiki/Category:All_disambiguation_pages",
+                "linktype": "nav"
+            },
+            {
+                "anchor": "Disambiguation pages",
+                "link": "https://en.wikipedia.org/wiki/Category:Disambiguation_pages",
+                "linktype": "nav"
+            },
+            {
+                "anchor": "Disambiguation pages with short description",
+                "link": "https://en.wikipedia.org/wiki/Category:Disambiguation_pages_with_short_description",
+                "linktype": "nav"
+            }
+        ]},
+        "title": "Wikipedia: Jason Holt (disambiguation)",
+        "url": "https://en.wikipedia.org/wiki/Jason_Holt_(disambiguation)"
+    },
+    {
+        "abstract": "| locmapin = Florida#USA",
+        "links": {"sublink": {
+            "anchor": "References",
+            "link": "https://en.wikipedia.org/wiki/John_%26_Florence_McKeage_House#References",
+            "linktype": "nav"
+        }},
+        "title": "Wikipedia: John & Florence McKeage House",
+        "url": "https://en.wikipedia.org/wiki/John_%26_Florence_McKeage_House"
+    },
+    {
+        "abstract": "| locmapin = North Carolina#USA",
+        "links": {"sublink": [
+            {
+                "anchor": "References",
+                "link": "https://en.wikipedia.org/wiki/Woodside_(Milton,_North_Carolina)#References",
+                "linktype": "nav"
+            },
+            {
+                "anchor": "External links",
+                "link": "https://en.wikipedia.org/wiki/Woodside_(Milton,_North_Carolina)#External_links",
+                "linktype": "nav"
+            }
+        ]},
+        "title": "Wikipedia: Woodside (Milton, North Carolina)",
+        "url": "https://en.wikipedia.org/wiki/Woodside_(Milton,_North_Carolina)"
+    },
+    {
+        "abstract": "Nicky Smith or Nicola Smith may refer to:",
+        "links": {"sublink": [
+            {
+                "anchor": "All article disambiguation pages",
+                "link": "https://en.wikipedia.org/wiki/Category:All_article_disambiguation_pages",
+                "linktype": "nav"
+            },
+            {
+                "anchor": "All disambiguation pages",
+                "link": "https://en.wikipedia.org/wiki/Category:All_disambiguation_pages",
+                "linktype": "nav"
+            },
+            {
+                "anchor": "Disambiguation pages with short description",
+                "link": "https://en.wikipedia.org/wiki/Category:Disambiguation_pages_with_short_description",
+                "linktype": "nav"
+            },
+            {
+                "anchor": "Human name disambiguation pages",
+                "link": "https://en.wikipedia.org/wiki/Category:Human_name_disambiguation_pages",
+                "linktype": "nav"
+            }
+        ]},
+        "title": "Wikipedia: Nicky Smith",
+     
