@@ -1,0 +1,15 @@
+Project Requirement:
+This project aims to analyse a file with a large body of Text and to count number of occurance of the words. 
+This Application counts the words in a file and saves the words and counts to a MongoDB server.
+
+Project
+
+1. Here I have used a xml file as example  and converted to JSON object and inserted into MongoDB Server with words and count.
+2. This project will accept xml as input and converts the xml to json and stores in json.txt and import the source and count values to 
+MongoDB Server.
+3. I have not created any jar file or cmd line argument to execute this application we can easily run as java application .
+4. Further Developments have to be done to accept  command line argument and convert to a jar file and execute it.
+5. Example new.xml and json.txt is availble in bin folder.
+6. Keep the files in local path and execute the application.
+
+7. Aggregate Framework and Map Reduce have to used for word counts and to get the most and least used words in large text file.
