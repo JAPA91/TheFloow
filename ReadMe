@@ -13,3 +13,12 @@ MongoDB Server.
 6. Keep the files in local path and execute the application.
 
 7. Aggregate Framework and Map Reduce have to used for word counts and to get the most and least used words in large text file.
+
+
+DB Queries.
+show dbs
+use mydb
+show collections
+xmltojson
+db.xmltojson.drop()
+db.xmltojson.find().pretty()
